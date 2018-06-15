@@ -63,7 +63,7 @@ public abstract class AbstractHtmlView implements View {
 	 * @return The HTML page footer.
 	 */
 	protected String createHtmlPageFooter() {
-		String outFooter = "<form action='index.html'><input type='submit' value='zurück zum Menü'>"
+		String outFooter = "<form action='index.html'><input type='submit' value='zurueck zum Menue'>"
 							+ "</form></body>\n</html>";
 
 		return outFooter;
