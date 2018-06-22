@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"ch.ilv.crm.webclient.servlet","l":"CRMServlet"},{"p":"ch.ilv.crm.webclient.services","l":"CustomerCreateService"},{"p":"ch.ilv.crm.webclient.views","l":"CustomerCreateView"},{"p":"ch.ilv.crm.webclient.services","l":"CustomerReadService"},{"p":"ch.ilv.crm.webclient.views","l":"CustomerReadView"}]

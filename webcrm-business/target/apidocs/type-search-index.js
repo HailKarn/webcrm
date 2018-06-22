@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"ch.ilv.crm.business","l":"AbstractCustomer"},{"p":"ch.ilv.crm.business","l":"BCCustomer"},{"p":"ch.ilv.crm.business","l":"CustomerFactory"},{"p":"ch.ilv.crm.business","l":"ICustomer"}]

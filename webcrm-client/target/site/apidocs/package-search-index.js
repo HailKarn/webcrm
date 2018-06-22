@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"ch.ilv.crm.webclient.services"},{"l":"ch.ilv.crm.webclient.servlet"},{"l":"ch.ilv.crm.webclient.views"}]

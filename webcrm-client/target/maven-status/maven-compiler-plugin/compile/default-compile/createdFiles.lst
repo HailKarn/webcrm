@@ -1,0 +1,5 @@
+ch\ilv\crm\webclient\views\CustomerReadView.class
+ch\ilv\crm\webclient\services\CustomerCreateService.class
+ch\ilv\crm\webclient\services\CustomerReadService.class
+ch\ilv\crm\webclient\servlet\CRMServlet.class
+ch\ilv\crm\webclient\views\CustomerCreateView.class
